@@ -51,3 +51,4 @@ Esta primera fase consta de lo siguiente:
 14. El sistema debe estar entrelazado con las redes sociales definidas. 
 
 ## Mockup
+![Hero](https://github.com/jsnunki/green-project/blob/master/mockups/hero.png)
