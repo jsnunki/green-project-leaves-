@@ -16,7 +16,7 @@ Construir un sistema de información para la gestión denuncias, monitoreo y rep
 ### Alcance del Proyecto
 De desarrollar un sistema de gestión de denuncias, monitoreo y reporte de los delitos ambientales o actividades que atenta contra el medio ambiente del planeta, se propone el desarrollo de una aplicación web a la cual podrá acceder cualquier persona que cuente con un dispositivo dotado de un navegador y acceso a internet, con el propósito de canalizar por un único medio el reporte de delitos ambientales a nivel internacional, realizar el seguimiento público de los casos y recolectar datos de gran valor para el ámbito y monitoreo, apoyando con reportes en tiempo real. Como se trata de un proyecto de desarrollo de Software se implementará bajo la metodología SCRUM.
 
-#### Requerimientos:
+### Requerimientos:
 
 Para este proyecto, se va iniciar por una primera fase o MVP que proporcione la primera prueba piloto para el proyecto del Programa de las Naciones Unidas para el Medio Ambiente. 
 
