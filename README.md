@@ -13,3 +13,41 @@ Construir un sistema de información para la gestión denuncias, monitoreo y rep
 
 3. Presionar a los gobiernos para tomar medidas tempranas contra estas actividades ilegales o dañinas para nuestro medio ambiente.
 
+### Alcance del Proyecto
+De desarrollar un sistema de gestión de denuncias, monitoreo y reporte de los delitos ambientales o actividades que atenta contra el medio ambiente del planeta, se propone el desarrollo de una aplicación web a la cual podrá acceder cualquier persona que cuente con un dispositivo dotado de un navegador y acceso a internet, con el propósito de canalizar por un único medio el reporte de delitos ambientales a nivel internacional, realizar el seguimiento público de los casos y recolectar datos de gran valor para el ámbito y monitoreo, apoyando con reportes en tiempo real. Como se trata de un proyecto de desarrollo de Software se implementará bajo la metodología SCRUM.
+
+#### Requerimientos:
+
+Para este proyecto, se va iniciar por una primera fase o MVP que proporcione la primera prueba piloto para el proyecto del Programa de las Naciones Unidas para el Medio Ambiente. 
+
+Esta primera fase consta de lo siguiente:
+
+1. Las personas se puede registrar
+
+2. Las personas puede realizar denuncias sin estar registradas 
+
+3. Tienen la opción de tomar denuncias anónimas 
+
+4. Para realizar una denuncia se necesita: 
+
+5. Nombre completo, cédula, domicilio, número telefónico y email.
+
+6. Señalar la problemática a denunciar.
+
+7. Señalar con la mayor precisión posible los datos que permitan localizar al presunto infractor (es) o la fuente contaminante.
+
+8. Poder agregar fotografías, vídeos o documentos. 
+
+9. Opción de realizar denuncia en forma anónima. 
+
+10. Opción de notificación a la cuenta y/o correo electrónico.
+
+11. Registro de la geolocalización.
+
+12. Monitoréo de las denuncias clasificándolas de forma óptima y mapea en tiempo real.
+
+13. Generar alertas e informes tipo Twitter para estar informados de la situación ambiental y poder consultar.
+
+14. El sistema debe estar entrelazado con las redes sociales definidas. 
+
+## Mockup
