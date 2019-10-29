@@ -61,13 +61,13 @@ Esta primera fase consta de lo siguiente:
 4.  Green Blue #04BFAD
 5. Ebony Clay #2A2640
 
-### Colores de Texto:
+## Colores de Texto:
 
 1. Dove Gray #707070
 2. Mirage #1D1931 (títulos)
 3. Oslo Gray #95989A
 
-##Tipografía
+## Tipografía
 
 ### Helvetica Neue
 1. Bold 
