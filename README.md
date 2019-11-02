@@ -61,13 +61,21 @@ Esta primera fase consta de lo siguiente:
 4.  Green Blue #04BFAD
 5. Ebony Clay #2A2640
 
+<<<<<<< HEAD
 ### Colores de Texto:
+=======
+## Colores de Texto:
+>>>>>>> 17ae13085b1bccb4381a583d1d6410a2d990a4b6
 
 1. Dove Gray #707070
 2. Mirage #1D1931 (títulos)
 3. Oslo Gray #95989A
 
+<<<<<<< HEAD
 ##Tipografía
+=======
+## Tipografía
+>>>>>>> 17ae13085b1bccb4381a583d1d6410a2d990a4b6
 
 ### Helvetica Neue
 1. Bold 
