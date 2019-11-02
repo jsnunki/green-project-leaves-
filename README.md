@@ -75,8 +75,6 @@ Esta primera fase consta de lo siguiente:
 ##Tipografía
 =======
 ## Tipografía
->>>>>>> 17ae13085b1bccb4381a583d1d6410a2d990a4b6
-
 ### Helvetica Neue
 1. Bold 
 2. Regular
