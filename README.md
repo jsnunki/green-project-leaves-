@@ -52,3 +52,24 @@ Esta primera fase consta de lo siguiente:
 
 ## Mockup
 ![Hero](https://github.com/jsnunki/green-project/blob/master/mockups/hero.png)
+
+## Paleta de Colores
+
+1. Robin's Egg Blue #04D976 
+2. Caribbean Green #04D976
+3.  Green #04BF8A
+4.  Green Blue #04BFAD
+5. Ebony Clay #2A2640
+
+### Colores de Texto:
+
+1. Dove Gray #707070
+2. Mirage #1D1931 (títulos)
+3. Oslo Gray #95989A
+
+##Tipografía
+
+### Helvetica Neue
+1. Bold 
+2. Regular
+3. Condensed Bold
