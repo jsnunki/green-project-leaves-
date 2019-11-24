@@ -3,8 +3,8 @@
 function abrir()
 {
     $dbhost = "localhost";
-    $dbuser = "GermanJsRojas";
-    $dbpass = "G3rm4nJsR0j4s*2";
+    $dbuser = "usuariobd";
+    $dbpass = "*****";
     $db = "green";
     $conn = new mysqli($dbhost, $dbuser, $dbpass,$db) or die("Error de conexión a la base de datos: %s\n". $conn -> error);
     
