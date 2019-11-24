@@ -161,3 +161,12 @@ CREATE TABLE `visitas` (
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2019-11-24  6:42:24
+
+
+
+INSERT INTO DELITO (NOMBRE) VALUES ('Mala gestión de los residuos');
+INSERT INTO DELITO (NOMBRE) VALUES ('Delincuencia medioambiental');
+INSERT INTO DELITO (NOMBRE) VALUES ('Delitos de contaminación');
+INSERT INTO DELITO (NOMBRE) VALUES ('Delitos contra la vida animal');
+INSERT INTO DELITO (NOMBRE) VALUES ('Delitos forestales');
+INSERT INTO DELITO (NOMBRE) VALUES ('Delitos pesqueros');
