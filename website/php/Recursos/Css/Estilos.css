@@ -1,0 +1,51 @@
+﻿body, html { background-color: #FFFFFF; font-family: Helvetica; }
+
+.h-logo { max-width: 200px; }
+.h-menu .nav-link { margin: 5px 20px; font-weight: bold; border-bottom: 2px solid #FFFFFF; position: relative; }
+.h-menu.navbar-light .navbar-nav .nav-link:hover { color: #0cb988; border-bottom-color: #04bfad; }
+.h-menu .btn { margin: 0px 20px; padding-left: 30px; padding-right: 30px; border-radius: 0px; }
+.h-menu .nav-link img { width: 45px; position: absolute; top: -6px; right: -30px; }
+
+.b-contenedor .img-paisaje { width: 100%; }
+.b-contenedor .t-inicio { padding-top: 100px; }
+.b-contenedor .btn-info { margin-top: 40px; border-radius: 0px; padding: 20px 40px; }
+
+.b-cifras { background-color: #17bc89; }
+.b-cifras .col-sm-4 { border-right: 2px solid #bbd173; }
+.b-cifras .col-sm-4:last-child { border-right: none; }
+
+.b-comoayudar .col-sm-3 img { height: 90px; }
+
+.b-boletin { background-color: #17bc89; }
+.b-boletin .txt-boletin { margin-top: 10px; background-color: transparent; border-top-style: none; border-left-style: none; border-right-style: none; border-bottom-width: 2px; border-radius: 0px; }
+.b-boletin .txt-boletin::placeholder { color: #FFFFFF; }
+.b-boletin img { max-width: 100%; }
+
+.b-movimientos .movimientos-carousel img { max-height: 500px; }
+.carousel-caption { color: #17bc89; font-weight: bold; bottom: 0px; background-color: rgba(0, 0, 0, 0.56); }
+
+.f-pie a.logo img { width: 100px; }
+.f-pie .redes-sociales img { width: 50px; }
+.f-pie .t-derechos { color: #95989A; }
+
+.f-denuncia .icono-adjuntar { width: 80px; }
+.f-denuncia .btn-enviar { width: 80%; padding: 20px 10px; }
+
+.modal .modal-header img { width: 200px; }
+.modal .modal-header > div { width: 100%; }
+.modal .modal-header .t { color: #95989A; font-size: 13px; }
+#exampleModalCenter.modal .modal-body .btn { color: #FFFFFF; width: 200px; border-radius: 5px; }
+.modal .modal-body .btn-facebook { background-color: #3b5998; border-color: #3b5998; }
+.modal .modal-body .btn-twitter { background-color: #1da1f2; border-color: #1da1f2; }
+.modal .modal-body .btn-google { background-color: #d8003a; border-color: #d8003a; }
+.modal .modal-body .btn-email { background-color: #04c4d9; border-color: #04c4d9; }
+
+
+.btn-success { background-color: #04bfad; border-color: #04bfad; }
+.btn-info { background-color: #04c4d9; border-color: #04c4d9; border-radius: 0px; }
+
+.separador-10 { height: 10px; }
+.separador-20 { height: 20px; }
+.separador-30 { height: 30px; }
+.separador-40 { height: 40px; }
+.separador-50 { height: 50px; }
